@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@example.com",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "email": "user2@example.com",
+      "password": "password2"
+    },
+    {
+      "id": "47c3",
+      "email": "rohithkay@gmail.com",
+      "password": "avani"
+    },
+    {
+      "id": "ab62",
+      "email": "sabarishNathan@gmail.com",
+      "password": "sharu"
+    }
+  ],
+  "students": [
+    {
+      "id": "191",
+      "name": "Rohith K",
+      "grade": "A",
+      "major": "Science"
+    }
+  ],
+  "courses": [
+    {
+      "id": "2eea",
+      "name": "Web  Technology",
+      "code": "23CS288",
+      "credits": "5"
+    }
+  ]
+}
